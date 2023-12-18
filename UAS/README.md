@@ -65,8 +65,8 @@ check test coverage
 
 lengkapi function test berikut untuk meng-cover get cart api
 
-https://github.com/nisya981/TESTING_QA/blob/main/UAS/test/test_routes.py
+https://github.com/nisya981/TESTING_QA/blob/main/UAS/test/test_routes.py#L27-L50
 
 dan untuk create factory ditambahkan jg data untuk model cart
 
-https://github.com/nisya981/TESTING_QA/blob/main/UAS/test/test_models.py
+https://github.com/nisya981/TESTING_QA/blob/main/UAS/test/test_models.py#L35-L74
